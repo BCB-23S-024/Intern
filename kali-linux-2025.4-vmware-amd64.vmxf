@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 5c 06 72 eb c8 51 51-51 4f fd 86 e4 73 33 39</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">kali-linux-2025.4-vmware-amd64.vmx</vmxPathName></VM></Foundry>
